@@ -1,0 +1,24 @@
+{
+  "name": "hardhat-foundry-template",
+  "version": "1.0.0",
+  "description": "hardhat-foundry-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/1329576606/hardhat-foundry-template.git"
+  },
+  "author": "zhanxin.xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1329576606/hardhat-foundry-template/issues"
+  },
+  "homepage": "https://github.com/1329576606/hardhat-foundry-template#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-foundry": "^1.1.1",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.21.0"
+  }
+}
